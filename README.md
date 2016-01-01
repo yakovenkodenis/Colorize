@@ -5,7 +5,11 @@ A tiny java library for generating random nice looking colors.
 
 ## Installation
 
-Download [colorize.jar](https://github.com/yakovenkodenis/Colorize/blob/master/colorize.jar) and add it to your libs folder.
+variant 1:
+    Download [colorize.jar](https://github.com/yakovenkodenis/Colorize/blob/master/colorize.jar) and add it to your libs folder.
+    
+variant 2:
+    Copy and paste [Colorize.java](https://github.com/yakovenkodenis/Colorize/blob/master/Colorize.java) class in your project.
 
 ## Usage
 
