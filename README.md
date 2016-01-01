@@ -1,4 +1,6 @@
 # Colorize
+[ ![Download](https://api.bintray.com/packages/yakovenkodenis/maven/colorize/images/download.svg) ](https://bintray.com/yakovenkodenis/maven/colorize/_latestVersion)
+
 A tiny java library for generating random nice looking colors
 
 ## Usage
