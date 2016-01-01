@@ -1,5 +1,5 @@
 # Colorize
-A tiny java library for generating random pleasing colors
+A tiny java library for generating random nice looking colors
 
 ## Usage
 
